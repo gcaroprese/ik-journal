@@ -1,0 +1,188 @@
+# Copyright (C) 2020 Inforket
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Inforket Journal 1.1.0\n"
+"Report-Msgid-Bugs-To: https://inforket.com/\n"
+"POT-Creation-Date: 2021-02-09 01:10-0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-02-09 08:57-0300\n"
+"Language-Team: ES-IT-EN-PR <gabriel.caroprese@gmail.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: \n"
+"Language: pt_BR\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ik-journaling/templates/journal.php:50
+msgctxt "Última Actualización"
+msgid "Última Actualización"
+msgstr "Última Atualização"
+
+#: ik-journaling/templates/journal.php:130
+msgctxt "Para leer y pensar:"
+msgid "Para leer y pensar:"
+msgstr "Para ler e pensar:"
+
+#: ik-journaling/templates/journal.php:135
+msgctxt "Estoy agradecido/a por..."
+msgid "Estoy agradecido/a por..."
+msgstr "Eu sou grato por..."
+
+#: ik-journaling/templates/journal.php:136
+msgctxt "Escribí tu agradecimiento"
+msgid "Escribí tu agradecimiento"
+msgstr "Escreva seus agradecimentos"
+
+#: ik-journaling/templates/journal.php:139, 148, 157, 166, 175, 184
+msgctxt "Guardar"
+msgid "Guardar"
+msgstr "Salve"
+
+#: ik-journaling/templates/journal.php:140, 149, 158, 167, 176, 185
+msgctxt "Guardado"
+msgid "Guardado"
+msgstr "Salvou"
+
+#: ik-journaling/templates/journal.php:153
+msgctxt "Afirmaciones Diarias. Yo soy..."
+msgid "Afirmaciones Diarias. Yo soy..."
+msgstr "Afirmações diárias. Eu sou..."
+
+#: ik-journaling/templates/journal.php:154
+msgctxt "Escribí tus afirmaciones"
+msgid "Escribí tus afirmaciones"
+msgstr "Escreva suas afirmações"
+
+#: ik-journaling/templates/journal.php:162
+msgctxt ""
+"La tarea que más me molesta, pero que tengo que hacer para tener un día "
+"exitoso es..."
+msgid ""
+"La tarea que más me molesta, pero que tengo que hacer para tener un día "
+"exitoso es..."
+msgstr ""
+"A tarefa que mais me incomoda, mas o que tenho que fazer para ter um dia de "
+"sucesso é..."
+
+#: ik-journaling/templates/journal.php:163
+msgctxt "Escribí la tarea más importante que tenés para hacer hoy"
+msgid "Escribí la tarea más importante que tenés para hacer hoy"
+msgstr "Escreva a tarefa mais importante que você precisa fazer hoje"
+
+#: ik-journaling/templates/journal.php:171
+msgctxt "Cosas buenas que pasaron hoy..."
+msgid "Cosas buenas que pasaron hoy..."
+msgstr "Boas coisas que aconteceram hoje..."
+
+#: ik-journaling/templates/journal.php:172
+msgctxt "Contá algo sobre las cosas buenas y sorprendentes que pasaron hoy"
+msgid "Contá algo sobre las cosas buenas y sorprendentes que pasaron hoy"
+msgstr "Conte algo sobre as coisas boas e surpreendentes que aconteceram hoje"
+
+#: ik-journaling/templates/journal.php:180
+msgctxt "¿Cómo podría haber hecho para que el día fuera mejor?"
+msgid "¿Cómo podría haber hecho para que el día fuera mejor?"
+msgstr "Como poderia ter tornado o dia melhor?"
+
+#: ik-journaling/templates/journal.php:181
+msgctxt ""
+"Escribí ideas de cosas que podrías haber hecho que pasaran para mejorar el "
+"día"
+msgid ""
+"Escribí ideas de cosas que podrías haber hecho que pasaran para mejorar el "
+"día"
+msgstr ""
+"Escreva ideias de coisas que você poderia ter feito para tornar o dia melhor"
+
+#: ik-journaling/templates/journal.php:194
+msgctxt "Ver Anterior"
+msgid "Ver Anterior"
+msgstr "Ver Anterior"
+
+#: ik-journaling/templates/journal.php:199
+msgctxt "Ver Siguiente"
+msgid "Ver Siguiente"
+msgstr "Ver Próxima"
+
+#: ik-journaling/templates/journal.php:323
+#: ik-journaling/templates/journal.php:322
+#: ik-journaling/templates/journal.php:324
+msgctxt "Buscá en tus journals..."
+msgid "Buscá en tus journals..."
+msgstr "Pesquise seus journals..."
+
+#: ik-journaling/templates/journal.php:330
+msgctxt "Día"
+msgid "Día"
+msgstr "Dia"
+
+#: ik-journaling/templates/journal.php:331
+msgctxt "Mes"
+msgid "Mes"
+msgstr "Mês"
+
+#: ik-journaling/templates/journal.php:233
+msgctxt "Reportar Frase"
+msgid "Reportar Frase"
+msgstr "Reportar Frase"
+
+#: ik-journaling/templates/journal.php:236
+msgctxt "Comentarios"
+msgid "Comentarios"
+msgstr "Comentários"
+
+#: ik-journaling/templates/journal.php:237
+msgctxt "Enviar"
+msgid "Enviar"
+msgstr "Enviar"
+
+#: ik-journaling/templates/journal.php:237
+msgctxt "Reporte enviado. ¡Gracias!"
+msgid "Reporte enviado. ¡Gracias!"
+msgstr "Relatório enviado. Obrigado!"
+
+#: ik-journaling/templates/journal.php:332
+msgctxt "Año"
+msgid "Año"
+msgstr "Ano"
+
+#: ik-journaling/templates/journal-search.php:10
+msgctxt "No se encontraron journals que coincidan con tu criterio de búsqueda."
+msgid "No se encontraron journals que coincidan con tu criterio de búsqueda."
+msgstr ""
+"Não foram encontrados journals que correspondam aos seus critérios de "
+"pesquisa."
+
+#: ik-journaling/templates/journal-search.php:13
+msgctxt "<a href=\"%s\">Volver al journal actual.</a>"
+msgid "<a href=\"%s\">Volver al journal actual.</a>"
+msgstr "<a href=\"%s\">Retornar ao journal atual.</a>"
+
+#: ik-journaling/templates/journal-search.php:13
+msgctxt "Mostrando"
+msgid "Mostrando"
+msgstr "Mostrando"
+
+#: ik-journaling/templates/journal-search.php:18
+msgctxt "Cargando"
+msgid "Cargando"
+msgstr "Carregando"
+
+#: ik-journaling/templates/journal-search.php:13
+msgctxt "Resultado"
+msgid "Resultado"
+msgstr "Resultado"
+
+#: ik-journaling/templates/journal-search.php:13
+msgctxt "Resultados"
+msgid "Resultados"
+msgstr "Resultados"

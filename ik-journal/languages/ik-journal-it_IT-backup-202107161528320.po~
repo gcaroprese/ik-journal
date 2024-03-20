@@ -1,0 +1,185 @@
+# Copyright (C) 2020 Inforket
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Inforket Journal 1.1.0\n"
+"Report-Msgid-Bugs-To: https://inforket.com/\n"
+"POT-Creation-Date: 2021-02-09 01:10-0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-07-16 15:21+0000\n"
+"Language-Team: Italiano\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Last-Translator: \n"
+"Language: it_IT\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ik-journaling/templates/journal-search.php:13
+msgid "<a href=\"%s\">Volver al journal actual.</a>"
+msgstr "<a href=\"%s\">Torna al journal corrente.</a>"
+
+#: ik-journaling/templates/journal.php:153
+msgid "Afirmaciones Diarias. Yo soy..."
+msgstr "Affermazioni quotidiane. Io sono..."
+
+#: ik-journaling/templates/journal.php:332
+msgid "Año"
+msgstr ""
+
+#: ik-journaling/templates/journal.php:458
+msgid "Buscar"
+msgstr "Cerca"
+
+#: ik-journaling/templates/journal.php:323
+#: ik-journaling/templates/journal.php:322
+#: ik-journaling/templates/journal.php:324
+msgid "Buscá en tus journals..."
+msgstr ""
+
+#: ik-journaling/templates/journal-search.php:18
+msgid "Cargando"
+msgstr ""
+
+#: ik-journaling/templates/journal.php:236
+msgid "Comentarios"
+msgstr ""
+
+#: ik-journaling/templates/journal.php:172
+msgid "Contá algo sobre las cosas buenas y sorprendentes que pasaron hoy"
+msgstr ""
+
+#: ik-journaling/templates/journal.php:171
+msgid "Cosas buenas que pasaron hoy..."
+msgstr ""
+
+#: ik-journaling/templates/journal.php:330
+msgid "Día"
+msgstr ""
+
+#: ik-journaling/templates/journal.php:237
+msgid "Enviar"
+msgstr ""
+
+#: ik-journaling/templates/journal.php:458
+msgid "Escribí algo que haría este día algo memorable"
+msgstr "Scrivi qualcosa che avrebbe reso questo giorno qualcosa di memorabile"
+
+#: ik-journaling/templates/journal.php:181
+msgid ""
+"Escribí ideas de cosas que podrías haber hecho que pasaran para mejorar el "
+"día"
+msgstr ""
+
+#: ik-journaling/templates/journal.php:163
+msgid "Escribí la tarea más importante que tenés para hacer hoy"
+msgstr ""
+
+#: ik-journaling/templates/journal.php:136
+msgid "Escribí tu agradecimiento"
+msgstr ""
+
+#: ik-journaling/templates/journal.php:154
+msgid "Escribí tus afirmaciones"
+msgstr ""
+
+#: ik-journaling/templates/journal.php:458
+msgid "Este día sería perfecto si..."
+msgstr "Questo giorno sarebbe perfetto se..."
+
+#: ik-journaling/templates/journal.php:135
+msgid "Estoy agradecido/a por..."
+msgstr ""
+
+#: ik-journaling/templates/journal.php:458
+msgid "Fecha: "
+msgstr "Data: "
+
+#: ik-journaling/templates/journal.php:140
+msgid "Guardado"
+msgstr ""
+
+#: ik-journaling/templates/journal.php:139
+msgid "Guardar"
+msgstr ""
+
+#: ik-journaling/templates/journal.php:162
+msgid ""
+"La tarea que más me molesta, pero que tengo que hacer para tener un día "
+"exitoso es..."
+msgstr ""
+
+#: ik-journaling/templates/journal.php:331
+msgid "Mes"
+msgstr ""
+
+#: ik-journaling/templates/journal-search.php:13
+msgid "Mostrando"
+msgstr ""
+
+#: ik-journaling/templates/journal.php:458
+msgid "Más Opciones"
+msgstr "Più opzioni"
+
+#: ik-journaling/templates/journal-search.php:10
+msgid "No se encontraron journals que coincidan con tu criterio de búsqueda."
+msgstr ""
+
+#: ik-journaling/templates/journal.php:130
+msgid "Para leer y pensar:"
+msgstr ""
+
+#: ik-journaling/templates/journal.php:233
+msgid "Reportar Frase"
+msgstr ""
+
+#: ik-journaling/templates/journal.php:237
+msgid "Reporte enviado. ¡Gracias!"
+msgstr ""
+
+#: ik-journaling/templates/journal-search.php:13
+msgid "Resultado"
+msgstr ""
+
+#: ik-journaling/templates/journal-search.php:458
+msgid "resultado"
+msgstr "risultato"
+
+#: ik-journaling/templates/journal-search.php:13
+msgid "Resultados"
+msgstr ""
+
+#: ik-journaling/templates/journal-search.php:458
+msgid "resultados"
+msgstr "risultati"
+
+#: ik-journaling/templates/journal.php:194
+msgid "Ver Anterior"
+msgstr ""
+
+#: ik-journaling/templates/journal.php:199
+msgid "Ver Siguiente"
+msgstr ""
+
+#: ik-journaling/templates/journal.php:458
+msgid "Volver al journal actual"
+msgstr "Torna al diario corrente"
+
+#: ik-journaling/templates/journal.php:180
+msgid "¿Cómo podría haber hecho para que el día fuera mejor?"
+msgstr ""
+
+#: ik-journaling/templates/journal.php:50
+msgid "Última Actualización"
+msgstr ""
+
+#: ik-journaling/templates/journal.php:458
+msgid "Última Actualización: "
+msgstr "Ultimo aggiornamento: "

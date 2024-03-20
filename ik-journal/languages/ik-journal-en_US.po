@@ -1,0 +1,169 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-09 09:20+0000\n"
+"PO-Revision-Date: 2021-03-10 01:45-0300\n"
+"Last-Translator: GABRIEL CAROPRESE <GABRIEL.CAROPRESE@GMAIL.COM>\n"
+"Language-Team: \n"
+"Language: ik\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: ik-journaling/templates/journal.php:50
+msgid "Última Actualización"
+msgstr "Last Update"
+
+#: ik-journaling/templates/journal.php:130
+msgid "Para leer y pensar:"
+msgstr "Read and think:"
+
+#: ik-journaling/templates/journal.php:135
+msgid "Estoy agradecido/a por..."
+msgstr "I give thanks for..."
+
+#: ik-journaling/templates/journal.php:136
+msgid "Escribí tu agradecimiento"
+msgstr "Write your thanks"
+
+#: ik-journaling/templates/journal.php:139
+msgid "Guardar"
+msgstr "Save"
+
+#: ik-journaling/templates/journal.php:140
+msgid "Guardado"
+msgstr "Saved"
+
+#: ik-journaling/templates/journal.php:153
+msgid "Afirmaciones Diarias. Yo soy..."
+msgstr "Daily Affirmations. I am..."
+
+#: ik-journaling/templates/journal.php:154
+msgid "Escribí tus afirmaciones"
+msgstr "Write your affirmations"
+
+#: ik-journaling/templates/journal.php:162
+msgid "La tarea que más me molesta, pero que tengo que hacer para tener un día exitoso es..."
+msgstr "The task that bothers me the most that I have to do to have a successful day is..."
+
+#: ik-journaling/templates/journal.php:163
+msgid "Escribí la tarea más importante que tenés para hacer hoy"
+msgstr "Write the most important task you have to do today"
+
+#: ik-journaling/templates/journal.php:171
+msgid "Cosas buenas que pasaron hoy..."
+msgstr "Good things that happened today..."
+
+#: ik-journaling/templates/journal.php:172
+msgid "Contá algo sobre las cosas buenas y sorprendentes que pasaron hoy"
+msgstr "Tell something about the good and surprising things that happened today"
+
+#: ik-journaling/templates/journal.php:180
+msgid "¿Cómo podría haber hecho para que el día fuera mejor?"
+msgstr "How could I have made the day better?"
+
+#: ik-journaling/templates/journal.php:181
+msgid "Escribí ideas de cosas que podrías haber hecho que pasaran para mejorar el día"
+msgstr "Write down ideas of things you could have done to make the day better"
+
+#: ik-journaling/templates/journal.php:194
+msgid "Ver Anterior"
+msgstr "Older Journals"
+
+#: ik-journaling/templates/journal.php:199
+msgid "Ver Siguiente"
+msgstr "Latest Journals"
+
+#: ik-journaling/templates/journal.php:323
+msgid "Buscá en tus journals..."
+msgstr "Search your journals..."
+
+#: ik-journaling/templates/journal.php:330
+msgid "Día"
+msgstr "Day"
+
+#: ik-journaling/templates/journal.php:331
+msgid "Mes"
+msgstr "Month"
+
+#: ik-journaling/templates/journal.php:233
+msgid "Reportar Frase"
+msgstr "Report Quote"
+
+#: ik-journaling/templates/journal.php:236
+msgid "Comentarios"
+msgstr "Comments"
+
+#: ik-journaling/templates/journal.php:237
+msgid "Enviar"
+msgstr "Send"
+
+#: ik-journaling/templates/journal.php:237
+msgid "Reporte enviado. ¡Gracias!"
+msgstr "Report sent. Thank you!"
+
+#: ik-journaling/templates/journal.php:332
+msgid "Año"
+msgstr "Year"
+
+#: ik-journaling/templates/journal-search.php:10
+msgid "No se encontraron journals que coincidan con tu criterio de búsqueda."
+msgstr "No journals were found that match your search criteria."
+
+#: ik-journaling/templates/journal-search.php:13
+msgid "<a href=\"%s\">Volver al journal actual.</a>"
+msgstr "<a href=\"%s\">Return to the current journal.</a>"
+
+#: ik-journaling/templates/journal-search.php:13
+msgid "Mostrando"
+msgstr "Showing"
+
+#: ik-journaling/templates/journal-search.php:18
+msgid "Cargando"
+msgstr "Loading"
+
+#: ik-journaling/templates/journal-search.php:13
+msgid "Resultado"
+msgstr "Result"
+
+#: ik-journaling/templates/journal-search.php:13
+msgid "Resultados"
+msgstr "Results"
+
+#: ik-journaling/templates/journal.php:458
+msgid "Buscar"
+msgstr "Search"
+
+#: ik-journaling/templates/journal.php:458
+msgid "Fecha: "
+msgstr "Date: "
+
+#: ik-journaling/templates/journal.php:458
+msgid "Este día sería perfecto si..."
+msgstr "This day would be perfect if..."
+
+#: ik-journaling/templates/journal.php:458
+msgid "Escribí algo que haría este día algo memorable"
+msgstr "Write down something that would make this day memorable"
+
+#: ik-journaling/templates/journal.php:458
+msgid "Más Opciones"
+msgstr "More Options"
+
+#: ik-journaling/templates/journal.php:458
+msgid "Última Actualización: "
+msgstr "Last Update: "
+
+#: ik-journaling/templates/journal.php:458
+msgid "Volver al journal actual"
+msgstr "Back to Today's journal"
+
+#: ik-journaling/templates/journal-search.php:458
+msgid "resultados"
+msgstr "results"
+
+#: ik-journaling/templates/journal-search.php:458
+msgid "resultado"
+msgstr "result"
